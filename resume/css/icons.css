@@ -113,3 +113,15 @@ i.kubernetes_icon img {
 i.ovirt_logo img {
     width: 110px;
 }
+
+i.px_50_icon img {
+    width: 50px;
+}
+
+i.px_60_icon img {
+    width: 60px;
+}
+
+i.px_80_icon img {
+    width: 60px;
+}
