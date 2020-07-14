@@ -114,6 +114,10 @@ i.ovirt_logo img {
     width: 110px;
 }
 
+i.px_40_icon img {
+    width: 40px;
+}
+
 i.px_50_icon img {
     width: 50px;
 }
@@ -122,6 +126,10 @@ i.px_60_icon img {
     width: 60px;
 }
 
+i.px_70_icon img {
+    width: 70px;
+}
+
 i.px_80_icon img {
-    width: 60px;
+    width: 80px;
 }
