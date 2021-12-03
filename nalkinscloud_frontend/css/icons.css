@@ -22,7 +22,15 @@ i.jenkins img{
     width: 110px;
 }
 
-i.openstack img{
+i.px400 img{
+    width: 400px;
+}
+
+i.px300 img{
+    width: 300px;
+}
+
+i.px150 img{
     width: 150px;
 }
 
@@ -52,4 +60,8 @@ i.centos img{
 
 i.raspbian img{
     width: 140px;
+}
+
+i.px80 img{
+    width: 80px;
 }
